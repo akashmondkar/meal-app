@@ -1,5 +1,3 @@
-🪧 Demo :-  https://akshaymealapp.netlify.app
-🪧 Demo :-  https://akshay0326.github.io/Meal-App-Find-Your-Meal/
 
 ---
 About the Project :-
@@ -51,14 +49,7 @@ Nothing crazy just download the zip and run LIVE_SERVER.
 ![InstructionPage](https://user-images.githubusercontent.com/86068467/213669374-3983f32b-278b-478a-a150-905ee9e66ce9.png)
 
 ---
-
-🚦Versions:-
-
-    1.0.0
-
----
-
-🙎 Contact .
+ .
 
     🔗 Author - @Akshay Kumar - akshaykumarsinha0326@gmail.com - +91-7562863220
 
